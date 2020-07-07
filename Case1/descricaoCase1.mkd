@@ -1,0 +1,12 @@
+# Case 1
+
+- Open the TFP.csv file attached.
+
+- The series is composed by TFP (rtfpna variable) at constant national prices (2005 = 1) for three countries: United States (USA), Canada (CAN) and Mexico (MEX).
+
+1) Make an exploratory data analysis;
+
+2) Forecast 10 years of the series (if you are performing the exercise in R, use package “forecast”);
+
+2) Check in the following link pages 2 and 3: https://cran.r-project.org/web/packages/pwt8/pwt8.pdf to see a list of all variables in the original dataset. Can you think about another feature that could be helpful in explaining TFP series? Explain.
+
