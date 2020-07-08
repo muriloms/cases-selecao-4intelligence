@@ -23,4 +23,5 @@ O projeto contém uma pasta com os dados, um arquivo com a descrição e informa
 ## Extra
 ### Desevolvimento dos Case em plataforma web
 [Clique aqui](./Extra)
+
 Os dois cases buscam a exploração de dados e utilização de modelos preditivos. Como proposta o desenvolvimento de uma aplicação web para cada case com um dashboard para exploração dos dados e modelo preditivo para utilizando JavaScript/HTML/CSS no front-end, Django no back-end, Postgre como banco de dados SQL e hospedagem na AWS
